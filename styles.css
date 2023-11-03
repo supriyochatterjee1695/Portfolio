@@ -206,12 +206,15 @@ ul li a:hover {
   }
 
   .section__container {
-    padding: 15rem 1rem 5rem 1rem;
+    padding: 5rem 1rem 0rem 1rem;
     text-align: center;
     grid-template-columns: repeat(1, 1fr);
-    margin-top: 12rem;
-    margin-bottom: 10rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
+
+  
+
 
   .image {
     grid-area: 1/1/2/2;
