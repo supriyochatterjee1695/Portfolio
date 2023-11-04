@@ -95,8 +95,8 @@ ul li a:hover {
 .section__container {
   min-height: 100vh;
   max-width: var(--max-width);
-  margin: auto;
-  padding: 0.1rem;
+  margin: 10px;
+  padding: 1rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 15rem;
